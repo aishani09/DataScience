@@ -27,7 +27,7 @@ The dataset contains historical Bitcoin prices, including:
 - **Volume** (Trading volume)
 
 ### **Source**
-The dataset used for this project can be found in the repository under `data/bitcoin.csv`.
+The dataset used for this project can be found in the repository under `bitcoin.csv`.
 
 ---
 
